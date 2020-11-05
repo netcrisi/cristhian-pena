@@ -66,9 +66,9 @@ highlight_name: false
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Researchers
-- Visitors
+#user_groups:
+#- Researchers
+#- Visitors
 ---
 
 Cristhian Peña is a mathematic graduate from the University of Costa Rica. He has been working as Business Intelligence in the bank and finance industry for more than 3 years. In this path, he has learned and applied different techniques in backend and frontend data science, especially in data storage infrastructure, efficient computing, data analysis, diving deep into data, searched vulnerability in transactions, and prediction algorithms focus on fraud detection for different companies of BAC Credomatic in Centro America. In this role, he has uncovered the new insight that leads to recommendations that enhanced strategies to prevent fraud in the issuer card as well as the acquirer.    
