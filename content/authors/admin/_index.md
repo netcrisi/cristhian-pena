@@ -25,9 +25,15 @@ interests:
 
 education:
   courses:
+  - course: Master in Applied Mathematics
+    institution: Universidad de Costa Rcia
+    year: 2016 - 2017. Incompleted. 50% approved credits.
   - course: B.Sc.in Mathematics
     institution: Universidad de Costa Rcia
     year: 2016
+  - course: Bachelor of Education in Mathematics Teacher Education
+    institution: Universidad de Costa Rcia
+    year: 2009 - 2012. Incompleted. 60% approved credits.
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
