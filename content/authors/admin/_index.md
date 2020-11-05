@@ -1,37 +1,33 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Cristhian J. Peña Sierra
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: B.Sc. Mathematics/Business Intellegence Analyst II
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: BAC Credomatic
+  url: "https://www.baccredomatic.com/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interest include fraud detection, data analysis and data visualization.  
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Data Science.
+- Story telling with data.
+- Statictis.
+- Maching Learning.
+- Reproducible workflow.
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: B.Sc.in Mathematics
+    institution: Universidad de Costa Rcia
+    year: 2016
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -40,16 +36,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: mailto:cristhian.pena@outlook.com  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://twitter.com/Netcrisi
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/cristhian-pena-sierra/
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/netcrisi
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -69,6 +65,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Cristhian Peña is a mathematic graduate from the University of Costa Rica. He has been working as Business Intelligence in the bank and finance industry for more than 3 years. In this path, he has learned and applied different techniques in backend and frontend data science, especially in data storage infrastructure, efficient computing, data analysis, diving deep into data, searched vulnerability in transactions, and prediction algorithms focus on fraud detection for different companies of BAC Credomatic in Centro America. In this role, he has uncovered the new insight that leads to recommendations that enhanced strategies to prevent fraud in the issuer card as well as the acquirer.    
